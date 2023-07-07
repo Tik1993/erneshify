@@ -905,3 +905,10 @@ a{
 .callout_signup{
   transform: translateY(5rem);
 }
+
+/* Logo */
+.logo{
+  width: 100px;
+  height: 80px;
+  color: #fff;
+}
